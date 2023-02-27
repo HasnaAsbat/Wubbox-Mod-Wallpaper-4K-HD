@@ -5,8 +5,8 @@
     "admobInterstitial": "ca-app-pub-4831452203306270/1167201268",
     "applovinBanner": "16cb520e5",
     "applovinInterstitial": "16cb520e5",
-    "unityGameId": "5171827",
-    "testMode": true,
+    "unityGameId": "5183544",
+    "testMode": false,
     "unityBanner": "Banner_Android",
     "unityInterstitial": "Interstitial_Android"
   }
